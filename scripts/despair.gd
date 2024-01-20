@@ -14,6 +14,6 @@ func _init():
 	localized_descriptions = {}
 	values = []
 	rarity = "none"
-	groups = ["danganrompa", "despair"]
+	groups = ["danganronpa", "despair"]
 	effects = [
 	]
