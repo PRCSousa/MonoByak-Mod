@@ -1,0 +1,20 @@
+Danganronpa:
+    - Despair: Conjunto fechado que debuff aos restantes, buff entre si
+    - Hope: Conjunto que dá buff a todos os humanos
+
+
+
+Byak:
+
+    Portela:
+        - Come símbolos de ginásio (suplementos, maquinas, pesos etc.), e ganha uma stack por cada um deles.
+        - Todos os Byak á volta do Portela têm o seu valor * stacks.
+
+    Ness:
+        - Não faz nada por si próprio
+        - Após 3 Ness no ecrã, explode e ganhamos x2 dinheiro por cada e mais um turno.
+
+    Gui:
+        - Buff quando ao lado de Hololive.
+
+    
