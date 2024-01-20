@@ -17,5 +17,10 @@ func _init():
 	groups = ["danganrompa", "despair"]
 	effects = [
 	{"comparisons": [{"a": {"starting_value": {"rand_num": {"min": 0, "max": 100}}}, "b": 50, "less_than_eq": true}], "value_to_change": "value_bonus", "diff": -8},
-	{"effect_type": "adjacent_symbols", "comparisons": [{"a":"type", "b": "despair_symbol"}], "value_to_change": "permanent_multiplier", "diff": 2}
-	]
+	{
+	"effect_type": "adjacent_symbols",
+	"comparisons": [{"a": "type", "b": "despair_symbol"}],
+	"anim_targets": "adjacent_symbol",
+	"anim": "bounce",
+	"value_to_change": "value_multiplier", "diff": 2
+	}]
