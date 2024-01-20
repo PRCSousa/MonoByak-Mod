@@ -16,5 +16,4 @@ func _init():
 	rarity = "none"
 	groups = []
 	effects = [
-	{}
 	]
